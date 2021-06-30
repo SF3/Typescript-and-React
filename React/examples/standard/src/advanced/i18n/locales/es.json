@@ -1,0 +1,10 @@
+{
+  "i18nExample.codeExample": "Esto se lee del código",
+  "i18nExample.complex": "Quiero comprar {count, plural, one {# limon} other {# limons}}.",
+  "i18nExample.date": "El embajador llega a {arrivalTime, time, short}.",
+  "i18nExample.nestedSelect": "¿Se pueden anidar los mensajes? {nested, select, true {Si, pueden} false {No, ellos no pueden}}",
+  "i18nExample.number": "Un pan cuesta {breadCost, number, gbp}.",
+  "i18nExample.simpleValue": "Hola {name}",
+  "i18nExample.what": "¿Como se llama?",
+  "i18nExample.where": "¿Donde está la biblioteca?"
+}

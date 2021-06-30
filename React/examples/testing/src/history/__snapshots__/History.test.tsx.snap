@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders History Correctly Renders correct snapshot with empty log 1`] = `
+<div
+  class="well border bg-light p-3"
+>
+  <div>
+    <h1>
+      History
+    </h1>
+    <button
+      class="btn btn-primary"
+      data-testid="clear-button"
+    >
+      Clear
+    </button>
+  </div>
+  <ul
+    id="historyList"
+  />
+</div>
+`;
+
+exports[`Renders History Correctly Renders correctly with log 1`] = `
+<div
+  class="well border bg-light p-3"
+>
+  <div>
+    <h1>
+      History
+    </h1>
+    <button
+      class="btn btn-primary"
+      data-testid="clear-button"
+    >
+      Clear
+    </button>
+  </div>
+  <ul
+    id="historyList"
+  >
+    <li>
+      First
+    </li>
+    <li>
+      Second
+    </li>
+  </ul>
+</div>
+`;

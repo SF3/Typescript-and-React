@@ -1,0 +1,29 @@
+.gsi-panel {
+  background: black;
+  color: yellow;
+  padding: 1em;
+}
+
+.gsi-title {
+  color: red;
+  font-weight: bold;
+}
+
+.gsi-spin {
+  width: 100px;
+  height: 100px;
+  align-content: center;
+  animation-name: gsi-spin;
+  animation-duration: 5000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes gsi-spin {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }
+}

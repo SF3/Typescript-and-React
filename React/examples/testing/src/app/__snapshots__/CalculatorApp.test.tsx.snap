@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders App Correctly Renders correct snapshot 1`] = `
+<div
+  class="container"
+>
+  <h1>
+    Calculator App
+  </h1>
+  Calculator
+  <div
+    class="mb-3"
+  />
+  History
+</div>
+`;

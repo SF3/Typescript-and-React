@@ -1,0 +1,10 @@
+{
+  "i18nExample.codeExample": "這是從代碼中讀取的",
+  "i18nExample.complex": "我想買 {count, plural, one {# 檸檬} other {# 檸檬}}.",
+  "i18nExample.date": "大使到達 {arrivalTime, time, short}.",
+  "i18nExample.nestedSelect": "消息可以嵌套嗎？{nested, select, true {是的他們可以} false {不，他們不能}}",
+  "i18nExample.number": "麵包成本 {breadCost, number, gbp}.",
+  "i18nExample.simpleValue": "你好 {name}",
+  "i18nExample.what": "你叫什麼名字",
+  "i18nExample.where": "圖書館在哪裡"
+}
